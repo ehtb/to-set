@@ -54,7 +54,6 @@ const data = toSet({
   'is-method': 'hello',
   'is-method-deep-a': '1',
   'is-method-deep-b': '2',
-  'no': 'false'
 };
 */
 
@@ -86,7 +85,6 @@ const data = toSet({
   'data-is-method': 'hello',
   'data-is-method-deep-a': '1',
   'data-is-method-deep-b': '2',
-  'data-no': 'false'
 };
 */
 
