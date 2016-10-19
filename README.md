@@ -1,6 +1,5 @@
-# To Dataset
+# Object to hyphenated set
 
-Object to hyphenated Set of attributes
 ```js
   toSet({ foo: 'bar', nofoo: false, deep: { foo: bar } })
   // => { foo: 'bar', 'deep-foo': 'bar' }
